@@ -1,12 +1,22 @@
-## Hi there 👋
+# FuturaOS
 
-<!--
+Welcome to the official GitHub organization for **FuturaOS** — a modern, proprietary operating system.
 
-**Here are some ideas to get you started:**
+This organization hosts the open-source components of the FuturaOS ecosystem, as well as software, tools, and libraries ported to run natively on our platform.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📦 What's Here
+
+*   **Open-Source Components:** Core system libraries, drivers, and tools released as open source to support the platform.
+*   **Ported Software:** Open-source applications, runtimes, and development tools (compilers, interpreters, shells, etc.) adapted for FuturaOS.
+*   **SDKs & Headers:** Public APIs and headers for developers building applications for FuturaOS.
+
+## 🚀 About FuturaOS
+
+FuturaOS is designed as a next-generation desktop operating system, focusing on performance, hardware compatibility (including modern x86_64 and ARM64 architectures), and a native software ecosystem. While the core OS remains proprietary, we believe in sharing the foundational tools to empower developers.
+
+## 🤝 Contributing
+
+We welcome contributions to our open-source ports and components! Please check individual repository guidelines for specific instructions, issue reporting, and coding standards.
+
+---
+*Building the future, one syscall at a time.*
